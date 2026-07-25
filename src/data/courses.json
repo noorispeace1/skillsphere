@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch. This comprehensive course covers HTML, CSS, JavaScript, React, Node.js, and MongoDB. By the end, you'll be able to build complex web applications.",
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=2500&auto=format&fit=crop",
+    "category": "Development",
+    "price": 99.99,
+    "curriculum": [
+      "Introduction to Web Development",
+      "HTML5 & CSS3 Masterclass",
+      "JavaScript Fundamentals to Advanced",
+      "Building Single Page Apps with React",
+      "Backend Development with Node.js & Express",
+      "Database Management with MongoDB"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Advanced UI/UX Design Masterclass",
+    "instructor": "Sarah Smith",
+    "duration": "15 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Master Figma and advanced UI/UX principles. Design stunning, accessible, and user-centered interfaces that captivate users and drive engagement.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=2000&auto=format&fit=crop",
+    "category": "Design",
+    "price": 89.00,
+    "curriculum": [
+      "UX Research & Personas",
+      "Wireframing & Prototyping in Figma",
+      "Design Systems & Components",
+      "Accessibility & Inclusive Design",
+      "Usability Testing & Feedback"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Python for Data Science and Machine Learning",
+    "instructor": "Dr. Alan Turing",
+    "duration": "30 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Dive deep into Data Science. Learn Pandas, NumPy, Matplotlib, and Scikit-Learn to analyze data, create visualizations, and build predictive machine learning models.",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2000&auto=format&fit=crop",
+    "category": "Data Science",
+    "price": 120.00,
+    "curriculum": [
+      "Python Crash Course",
+      "Data Analysis with Pandas",
+      "Data Visualization with Matplotlib & Seaborn",
+      "Introduction to Machine Learning",
+      "Building Predictive Models with Scikit-Learn"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Mobile App Development with React Native",
+    "instructor": "Emma Johnson",
+    "duration": "25 hours",
+    "rating": 4.6,
+    "level": "Intermediate",
+    "description": "Build cross-platform mobile apps for iOS and Android using React Native. Learn navigation, state management, and API integration in a mobile environment.",
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=2000&auto=format&fit=crop",
+    "category": "Mobile Development",
+    "price": 110.50,
+    "curriculum": [
+      "React Native Basics",
+      "React Navigation Deep Dive",
+      "Managing State with Redux",
+      "Working with Native Device APIs",
+      "Publishing to App Store & Google Play"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Digital Marketing Analytics Strategy",
+    "instructor": "Michael Chang",
+    "duration": "12 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Understand digital marketing metrics. Learn to use Google Analytics, SEO tools, and social media insights to drive traffic and increase conversion rates.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2000&auto=format&fit=crop",
+    "category": "Marketing",
+    "price": 75.00,
+    "curriculum": [
+      "Marketing Funnels Explained",
+      "Mastering Google Analytics 4",
+      "SEO Strategies for 2024",
+      "Social Media Ad Campaigns",
+      "Conversion Rate Optimization (CRO)"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Cybersecurity Fundamentals: CompTIA Security+",
+    "instructor": "Robert Davis",
+    "duration": "40 hours",
+    "rating": 4.9,
+    "level": "All Levels",
+    "description": "Protect networks and data. This course covers everything you need to pass the CompTIA Security+ certification and start a career in cybersecurity.",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2000&auto=format&fit=crop",
+    "category": "IT & Software",
+    "price": 149.99,
+    "curriculum": [
+      "Threats, Attacks, and Vulnerabilities",
+      "Architecture and Design",
+      "Implementation and Cryptography",
+      "Operations and Incident Response",
+      "Governance, Risk, and Compliance"
+    ]
+  }
+]
